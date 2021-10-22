@@ -140,3 +140,8 @@ body {
   width: 50%;
   transition: width 0.1s linear;
 }
+
+.wip {
+  position: absolute;
+  bottom: 3rem;
+}
